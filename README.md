@@ -49,6 +49,12 @@
 ```sh
 - cucumber -t@'Tag_do_teste'
 ```
+## ✅ How to Generate a cucumber Report 
+ Como Gerar um report de execucao do cucumber
+
+```sh
+- GenerateReport.bat
+```
 ## 🌱 Deployment 
  como realizar os PR's para atualização do projeto:
 ```sh
