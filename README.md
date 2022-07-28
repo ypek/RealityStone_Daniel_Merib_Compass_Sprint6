@@ -33,7 +33,7 @@
  Instalando Bibliotecas necessárias 
 
 ```sh
-- cd /RealityStone_Daniel_Merib_Compass_Sprint5
+- cd /RealityStone_Daniel_Merib_Compass_Sprint6
 - bundle install
 ```
 
