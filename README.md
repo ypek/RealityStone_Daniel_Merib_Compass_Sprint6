@@ -33,7 +33,7 @@
  Instalando Bibliotecas necessárias 
 
 ```sh
-- cd /RealityStone_Daniel_Merib_Compass_Sprint6
+- cd /RealityStone_Daniel_Merib_Compass_Sprint5
 - bundle install
 ```
 
@@ -48,12 +48,6 @@
 
 ```sh
 - cucumber -t@'Tag_do_teste'
-```
-## ✅ How to Generate a cucumber Report 
- Como Gerar um report de execucao do cucumber
-
-```sh
-- GenerateReport.bat
 ```
 ## 🌱 Deployment 
  como realizar os PR's para atualização do projeto:
