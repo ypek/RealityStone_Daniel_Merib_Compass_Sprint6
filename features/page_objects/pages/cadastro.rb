@@ -5,3 +5,4 @@ class Cadastro < SitePrism::Page
     element :password, '#password' #elemento que contém o campo password
     element :btn_cadastrar, xpath: '//*[@id="root"]/div/div/form/div[8]/button' #elemento que contém o botão cadastrar
 end
+
